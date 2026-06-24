@@ -1,0 +1,5 @@
+Two types of data types in python
+1.Built-in DataTypes, 2.User defined DataTypes
+
+1.Built-in DataTypes are of 5 types:
+a.None Type, b.Numeric Types, c.Sequences, d.Sets, e.Mappings
