@@ -1,3 +1,10 @@
+# Documentation String/Docstring:-
+# If we write strings inside """ """ or ''' '''
+# and if these strings are written as first statement
+# in a module, function, class or method, these strings are called ducumentation strings
+# or docstrings
+
+
 #Program to add two numbers
 def Add(x,y):
     '''
