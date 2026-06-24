@@ -1,0 +1,14 @@
+These types represent numbers
+int --> -1, 0, 2, 3, etc. => integer [-inf, +inf]
+float --> 1.1, 1.23, -1.4, 0.0, 3.57, etc
+complex --> a +- ib
+ a is real part & b is imaginary part
+
+
+In python, there is no limit for the size of an int data type . It can store very large integer numbers conveniently
+In Python, int does not have a fixed size like C/C++. Python integers can grow as large as memory allows || system allows.
+
+
+
+E or e we can use t represent the power of 10 in float type
+x = 22.55e3 || 22.55E3
