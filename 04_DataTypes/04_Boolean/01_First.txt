@@ -1,0 +1,18 @@
+Boolean Data Types
+ 0 -> False 1 -> True
+ " " || ' ' -> will be evaluated as False in condition
+
+
+ Conditions will be evaluated internally to either True or False see below
+ a = 10 > 5
+ print(a) result -> True
+ a = 10 < 5
+ print(a) result -> False
+
+ Note ->True is treated as 1 & False is treated as 0
+ print(True + True) result -> 2
+ print(True - False) result -> 1
+ print(True + False) result -> 1
+ print(False + False) result -> 0
+ print(False - False) result -> 0
+
