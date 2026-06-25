@@ -1,0 +1,3 @@
+Sequences represent a group of elements or items
+6 Types :
+1.string, 2.Bytes, 3.bytearray, 4.Lists, 5.Tuples, 6.Range
