@@ -1,0 +1,7 @@
+Bytes Data Types represent a group of byte numbers
+bytes (immutable sequence of bytes)
+range is [0,255]
+
+how to define a byte data type:-
+1.create a list that holds element in range [0,255]
+2. convert the list in byte data type with bytes()
