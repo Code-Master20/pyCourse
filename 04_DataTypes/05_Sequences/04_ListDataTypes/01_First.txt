@@ -1,0 +1,20 @@
+Lists in python are similar to array in JS
+Mutable
+
+    Pyton Lists             vs              JS Arrays
+    -----------                            ----------- 
+1.  can storedifferent                      1.  same
+    types of elements,                          
+    but not conventional
+
+2.can gro dynamically                     2.  same
+  in memory
+
+3.name = []                               3.  name = []
+
+4.name = ["sahidur", "Rakibul",   4. name = ["sahidur", "Rakibul"
+           50, 90.98]                        50, 8.93]
+           
+5.number = list()                 5.       number = new Array()
+
+6.number = list(3)                6.       number = new Array(3)
