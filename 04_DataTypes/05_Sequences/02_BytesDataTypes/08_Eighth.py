@@ -3,6 +3,7 @@ import hashlib
 data = b"hello"
 hash_value = hashlib.sha256(data)
 print(hash_value.hexdigest())# 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
+print(hash_value.digest()) # b',\xf2M\xba_\xb0\xa3\x0e&\xe8;*\xc5\xb9\xe2\x9e\x1b\x16\x1e\\\x1f\xa7B^s\x043b\x93\x8b\x98$'
 
 # The hash algorithm processes raw bytes.
 
@@ -39,3 +40,9 @@ print(hashlib.algorithms_available)
 # 5 GB
 # SHA-256 always produces:
 # 256 bits = 32 bytes
+
+# hexdigest()
+# Returns readable hexadecimal text.
+
+# digest()
+# Returns raw bytes.
